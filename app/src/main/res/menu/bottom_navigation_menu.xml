@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/tips_menu_item"
+        android:icon="@drawable/ic_tips"
+        android:title="@string/tips" />
+
+    <item
+        android:id="@+id/market_price_menu_item"
+        android:icon="@drawable/ic_news"
+        android:title="@string/market_price" />
+
+    <item
+        android:id="@+id/comp_menu_item"
+        android:icon="@drawable/ic_company"
+        android:title="@string/comp" />
+</menu>
